@@ -9,5 +9,5 @@
 
   <body <?php body_class(); ?>>
     <header>
-      Header Section
+      Header Test 123
     </header>
